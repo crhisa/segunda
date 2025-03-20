@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 10px;
+    text-align: center;
+}
+div{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: rgb(101, 1, 129);
+    margin: 10px;
+    color:white;
+    padding: 15px;
+}
+
+.ingles{
+    background: green;
+}
+.rgb{
+    background: rgb(43, 7, 123);
+}
+.rgb2{
+    background: rgb(34%, 16%, 98%);
+}
+.rgb3{
+    background: rgba(33%, 234%, 12%,0.5);
+}
+.hexa{
+   background:  #f1c40f;
+}
+.hexa2{
+    background:  #f0f;
+ }
+ .hor{
+    background: rgb(34,193,195);
+    background: linear-gradient(278deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+ }
+ .ver{
+    background: rgb(58,60,180);
+    background: linear-gradient(278deg, rgba(58,60,180,1) 0%, rgba(123,29,253,0) 50%, rgba(252,69,229,1) 100%);
+ }
+ .rad{
+    background: rgb(31,242,232);
+background: radial-gradient(circle, rgba(31,242,232,1) 0%, rgba(255,25,25,1) 100%);
+ }

@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+img{
+    border: 3px solid rgb(9, 114, 151);
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+.unidadpx{
+    width: 20px;
+    height: 20px;
+}
+.Unidadcm{
+    width: 10cm;
+    height: 10cm;
+ 
+}
+.unidadmm{
+    width: 50mm;
+    height: 50mm;
+}
+.unidadq{
+    width: 100q;
+    height: 100q;
+}
+.unidadin{
+    width: 5in;
+    height: 6in;
+}
+.unidadpt{
+    width: 40pt;
+    height: 40pt;
+}
+.unidadpc{
+    width: 11pc;
+    height: 11pc;
+}
+a{
+    
+text-decoration: double;
+display: grid;
+padding:0px;
+background: rgb(88, 135, 235);
+width: 300px;
+margin: 0px auto;
+font-family: "roboto";
+color:black;
+border-radius: 25px;
+border:3px solid black;
+box-shadow: 0 0 5px rgb(247, 35, 35);
+}

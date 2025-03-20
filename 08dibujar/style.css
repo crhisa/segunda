@@ -1,0 +1,14 @@
+a{
+    
+    text-decoration: double;
+    display: grid;
+    padding:0px;
+    background: rgb(88, 135, 235);
+    width: 300px;
+    margin: 0px auto;
+    font-family: "roboto";
+    color:black;
+    border-radius: 25px;
+    border:3px solid black;
+    box-shadow: 0 0 5px rgb(247, 35, 35);
+    }

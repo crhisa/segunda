@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family:"Mine" ;
+    src: url(Minercraftory.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+span{
+    font-family: "roboto";
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: 1;
+
+}
+a{
+    
+    text-decoration: double;
+    display: grid;
+    padding:0px;
+    background: rgb(88, 135, 235);
+    width: 300px;
+    margin: 0px auto;
+    font-family: "roboto";
+    color:black;
+    border-radius: 25px;
+    border:3px solid black;
+    box-shadow: 0 0 5px rgb(247, 35, 35);
+    }
+.uno{
+    font-family: "typewriter";
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 50;
+
+}
+.dos{
+    font-family: "algerian";
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: 100;
+}
+.tres{
+    font-family: "gigi";
+    font-size: 80px;
+    font-style: italic;
+    font-weight: 400;
+}
+.tres{
+    font-family: "freestyle script";
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 1;
+}
+.cuatro{
+    font-family: "arial";
+    font-size: 70px;
+    font-style: initial;
+    font-weight: 1;
+}
+.cinco{
+    font-family: "onyx";
+    font-size: 100px;
+    font-style: oblique;
+    font-weight: 1;
+}
+.d1{
+    text-decoration: 2px dashed overline blue;
+
+}
+.d2{
+    text-decoration: 7px double underline red;
+}
+.d3{
+    text-decoration: 5px dotted line-through green ;
+    
+}
+.ejemplo{
+    letter-spacing: 20px;
+    text-align: justify;
+}
+.e2{
+    line-height: 20px;
+    color: red;
+
+}
+.e3{
+    line-height: 100px;
+    color: blueviolet;
+}
+.e4{
+}
+.e5{
+    word-spacing: 100px;
+    color: darkgreen;
+}
+.e6{
+    white-space: no-wrap;
+    color: rgb(255, 77, 0);
+}
+.texto{
+    text-shadow: 0 0 5px rgb(0, 255, 17);
+}
+@font-face {
+    font-family: "letra";
+    src: url(The\ New\ Rancho.otf);
+}
+.mine{ 
+    font-family: "letra";
+}
+.hi{
+    font-family: "roboto";
+}
+.ejemplo1{
+    letter-spacing:20px ;
+    text-align: justify;
+}
+.ejemplo2{
+    line-height: 10px;
+    color: rgb(6, 59, 92);
+}
+.ejemplo3{
+    line-height:100px ;
+    color: rgb(82, 75, 29);
+}
+.ejemplo4{
+    text-indent: 50px;
+
+}
+.ejemplo5{
+    word-spacing: 100px;	
+    color: rgb(136, 126, 9);
+}
+.ejemplo6{
+white-space: pre-wrap;
+    color: aquamarine;
+}
+.espacio{
+    letter-spacing: 10px;
+}
+.line{
+    line-height: 100px;
+}
+.text{
+    text-indent: 200px;
+}
+.word{
+    word-spacing: 100px;
+}
+.WHITE{
+    white-space: nowrap;
+}
+.ALIGN{
+    text-align: center;
+}
+.ejemplo7{
+    text-align: center;
+    }
